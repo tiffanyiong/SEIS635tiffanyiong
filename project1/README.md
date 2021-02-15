@@ -11,7 +11,7 @@ The Focus game is an easy-to-play memory game designed for people of all ages wh
 
  
  <h2>Rules</h2>
-<br>1. The system set up and place each card in 4 rows of 13 cards each. 
+1. The system set up and place each card in 4 rows of 13 cards each. 
     players can adjust how many cards they want to set up. (maximum: 52 cards)
 <br>2. Players have 1 minute to memorize the cards.
 <br>3. 1 minute later, all cards will face down.
@@ -24,7 +24,7 @@ The Focus game is an easy-to-play memory game designed for people of all ages wh
 
 
 <h2>User Stories</h2>
-<br>1. As a player, I would like to play a simple memory game, so that I can improve my memory skills.
+1. As a player, I would like to play a simple memory game, so that I can improve my memory skills.
 <br>2. As a player, I would like the game to keep track of the time that I spend to find out all the matched cards, so that I know how fast I can finish the game next time.
 <br>3. As a player, I would like the game to keep track of the score, so that I monitor if my memory skills are improving.
 <br>4. As a player, if the cards are matched, I would like the card to be removed, so that they won't be a distraction for me.
