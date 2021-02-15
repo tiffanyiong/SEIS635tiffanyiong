@@ -15,7 +15,7 @@ The Focus game is an easy-to-play memory game designed for people of all ages wh
     players can adjust how many cards they want to set up. (maximum: 52 cards)
 <br>2. Players have 1 minute to memorize the cards.
 <br>3. 1 minute later, all cards will face down.
-<br>4. if there are two players or more, each player takes a turn by fliping as many cards they can match within 10 seconds.
+<br>4. If there are two players or more, each player takes a turn by fliping as many cards they can match within 10 seconds.
 <br>5. If the cards match, then the players get 1 point. 
 <br>6. If the cards don't match, they will be turned back over.
 <br>7. When all the cards have been matched, the game is over. 
