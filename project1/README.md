@@ -1,16 +1,16 @@
-# SEIS635tiffanyiong
+# Project 1 - Focus game - Tiffany Iong
 
-Vision Statement
+<h2>Vision Statement</h2>
 The Focus game is an easy-to-play memory game designed for people of all ages who wants to improve memory skills. Unlike other memory games, The Focus can keep track of players' memory improvement and allow players to adjust the level of the game difficulty. Our game provides multiple-players option so that players can have fun with their friends and family while they are improving memory skills! 
 
 
-<h1>Features</h>
+<h2>Features</h2>
 1. The game allows multiple players.
 2. Players can set up the level of game difficulty by adjusting the number of cards and amount of time.
 3. It generates a final report for players to view their improvement.
 
  
- Rules
+ <h2>Rules</h2>
 1. The system set up and place each card in 4 rows of 13 cards each. 
     players can adjust how many cards they want to set up. (maximum: 52 cards)
 2. Players have 1 minute to memorize the cards.
@@ -23,7 +23,7 @@ The Focus game is an easy-to-play memory game designed for people of all ages wh
 9. The system records the total time the players spend.
 
 
- User Stories
+<h2>User Stories</h2>
 1. As a player, I would like to play a simple memory game, so that I can improve my memory skills.
 2. As a player, I would like the game to keep track of the time that I spend to find out all the matched cards, so that I know how fast I can finish the game next time.
 3. As a player, I would like the game to keep track of the score, so that I monitor if my memory skills are improving.
