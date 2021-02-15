@@ -4,7 +4,7 @@ Vision Statement
 The Focus game is an easy-to-play memory game designed for people of all ages who wants to improve memory skills. Unlike other memory games, The Focus can keep track of players' memory improvement and allow players to adjust the level of the game difficulty. Our game provides multiple-players option so that players can have fun with their friends and family while they are improving memory skills! 
 
 
-Features
+<h1>Features</h>
 1. The game allows multiple players.
 2. Players can set up the level of game difficulty by adjusting the number of cards and amount of time.
 3. It generates a final report for players to view their improvement.
